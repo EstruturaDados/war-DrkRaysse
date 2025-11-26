@@ -22,7 +22,7 @@ int main() {
         //leitura do nome
         printf("Digite o nome do territorio: ");
 
-        // função para limpar buffer e ler nomes compostos
+        // para limpar buffer e ler nomes compostos
         scanf(" %[^\n]", territorios [i].nome);
 
         //leitura da cor
